@@ -35,4 +35,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ethersphere01&show_icons=true&locale=en&layout=compact" alt="ethersphere01" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ethersphere01&show_icons=true&locale=en" alt="ethersphere01" /></p>
+
