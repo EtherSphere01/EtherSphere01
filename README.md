@@ -35,7 +35,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ethersphere01&show_icons=true&locale=en&layout=compact" alt="ethersphere01" /></p><br><br><br><br><br><br><br>
 
-<img src="https://raw.githubusercontent.com/ethersphere01/ethersphere01/output/snake.svg" alt="Snake animation" />
-
-###
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ethersphere01&label=Profile%20views&color=0e75b6&style=plastic" alt="ethersphere01" /> </p>
