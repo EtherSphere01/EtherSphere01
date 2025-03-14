@@ -20,14 +20,30 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/naimurrahman23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naimurrahman23" height="30" width="40" /></a>
-<a href="https://fb.com/naimur01012018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="naimur01012018" height="30" width="40" /></a>
-<a href="https://instagram.com/naimur01012018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naimur01012018" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ethersphere" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ethersphere" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ethersphere01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ethersphere01" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ethersphere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ethersphere" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ethersphere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ethersphere" height="30" width="40" /></a>
-<a href="https://discord.gg/695588577265975336" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="695588577265975336" height="30" width="40" /></a>
+<div align="left">
+  <a href="https://www.codechef.com/users/ethersphere" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ethersphere" height="35" width="55" /></a>
+<a href="https://www.hackerrank.com/ethersphere01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ethersphere01" height="35" width="55" /></a>
+<a href="https://codeforces.com/profile/ethersphere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ethersphere" height="35" width="55" /></a>
+<a href="https://www.leetcode.com/ethersphere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ethersphere" height="35" width="55" /></a>
+  <a href="https://www.instagram.com/naimur01012018/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="35" alt="instagram logo"  />
+  </a>
+  <a href="naimurrahman471@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/naimurrahman23/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/naimur01012018" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="55" height="35" alt="facebook logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/ethersphere01" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="55" height="35" alt="hackerrank logo"  />
+  </a>
+  <a href="https://discordapp.com/users/695588577265975336" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="55" height="35" alt="discord logo"  />
+  </a>
+</div>
 </p>
 
 <h3 align="left">🛠 Language and tools</h3>
