@@ -21,8 +21,10 @@
 
 - ⚡ Fun fact **-_-**
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me</h2>
+
 ###
+
 <p align="left">
 <div align="left">
   <a href="https://www.instagram.com/naimur01012018/" target="_blank">
@@ -50,7 +52,7 @@
 </div>
 </p>
 
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">🛠 Language and tools</h2>
 
 ###
 
