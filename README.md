@@ -146,4 +146,10 @@
 
 ###
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=ethersphere01&label=Profile%20views&color=0e75b6&style=plastic" alt="ethersphere01" /> </p>
+<br clear="both">
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ethersphere01/count.svg?"  />
+</div>
+
+###
