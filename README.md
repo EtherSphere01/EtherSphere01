@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Md. Naimur Rahman</h1>
 <h3 align="center">Studying BSc in Computer Science and Engineering</h3>
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ethersphere01/count.svg?"  />
+</div>
+
+###
+
 <h2 align="left">About me</h2>
 
 ###
@@ -154,8 +160,4 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ethersphere01/count.svg?"  />
-</div>
 
-###
