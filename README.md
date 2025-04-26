@@ -21,7 +21,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://naimur-rahman01.vercel.app/)
 
-- 💬 Ask me about **C, C++, C#, Java, Python, PHP, HTML, CSS, JS**
+- 💬 Ask me about **C, C++, C#, Java, Python, PHP, HTML, CSS, JS, React, Nest Js, Node Js, Tailwind CSS**
 
 - 📫 How to reach me **naimurrahman471@gmail.com**
 
