@@ -26,6 +26,8 @@
 
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/naimurrahman23/)
 
+- 📜 Check out my CV [here](https://drive.google.com/file/d/1kXxYpQ3CvExampleLink/view?usp=sharing)
+
 - ⚡ Fun fact **-_-**
 
 <h2 align="left">Connect with me</h2>
