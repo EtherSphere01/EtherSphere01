@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Naimur Rahman</h1>
-<h3 align="center">Studying BSc in Computer Science and Engineering</h3>
-<h3 align="center">Frontend Developer Intern at Deepchain Labs</h3>
+<h3 align="center">Full Stack Developer at Deepchain Labs</h3>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/ethersphere01/count.svg?"  />
