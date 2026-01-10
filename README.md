@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Naimur Rahman</h1>
-<h3 align="center">Frontend Developer at Deepchain Labs</h3>
+<h3 align="center">Ex - Frontend Developer @ Deepchain Labs</h3>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/ethersphere01/count.svg?"  />
@@ -14,10 +14,6 @@
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 ### <a href="https://naimur-rahman01.vercel.app/" target="_blank">🌐 Portfolio</a>
-
--   🔭 My previous endeavor [Lawyer Appointment System](https://lawyer-appointment25.netlify.app/)
-
--   🌱 I’m currently learning **Web Development**
 
 -   👨‍💻 All of my projects are available at [Portfolio](https://naimur-rahman01.vercel.app/)
 
@@ -38,31 +34,31 @@
 <p align="left">
 <div align="left">
   <a href="https://www.instagram.com/naimur01012018/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="32" height="24" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="36" height="24" alt="instagram logo"  />
   </a>
   <a href="mailto:naimurrahman471@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" height="24" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="36" height="24" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/naimurrahman23/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="24" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="36" height="24" alt="linkedin logo"  />
   </a>
   <a href="https://www.facebook.com/naimur01012018" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="32" height="24" alt="facebook logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="36" height="24" alt="facebook logo"  />
   </a>
   <a href="https://www.hackerrank.com/profile/ethersphere01" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="32" height="24" alt="hackerrank logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="36" height="24" alt="hackerrank logo"  />
   </a>
   <a href="https://discordapp.com/users/695588577265975336" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="32" height="24" alt="discord logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="36" height="24" alt="discord logo"  />
   </a>
   <a href="https://www.codechef.com/users/ethersphere" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ethersphere" height="24" width="32" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ethersphere" height="24" width="36" />
   </a>
   <a href="https://codeforces.com/profile/ethersphere" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ethersphere" height="24" width="32" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ethersphere" height="24" width="36" />
   </a>
   <a href="https://www.leetcode.com/ethersphere" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ethersphere" height="24" width="32" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ethersphere" height="24" width="36" />
   </a>
 </div>
 </p>
@@ -156,7 +152,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ethersphere01&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ethersphere01&locale=en&hide_title=true&layout=compact&card_width=360&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=ethersphere01&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ethersphere01&radius=16&theme=github-dark-dimmed&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
