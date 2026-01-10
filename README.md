@@ -151,11 +151,11 @@
 
 ###
 
-<!-- <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ethersphere01&locale=en&hide_title=true&layout=compact&card_width=360&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ethersphere01&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+<div align="left">
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ethersphere01&locale=en&hide_title=true&layout=compact&card_width=360&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  /> -->
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=ethersphere01&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  /> -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ethersphere01&radius=16&theme=github-dark-dimmed&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
-</div> -->
+</div>
 
 ###
 
