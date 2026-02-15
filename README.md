@@ -51,13 +51,13 @@
   <a href="https://discordapp.com/users/695588577265975336" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="36" height="28" alt="discord logo"  />
   </a>
-  <a href="https://www.codechef.com/users/ethersphere" target="_blank">
+  <a href="https://www.codechef.com/users/ether01" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ethersphere" height="28" width="36" />
   </a>
-  <a href="https://codeforces.com/profile/ethersphere" target="_blank">
+  <a href="https://codeforces.com/profile/ether" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ethersphere" height="28" width="36" />
   </a>
-  <a href="https://www.leetcode.com/ethersphere" target="_blank">
+  <a href="https://www.leetcode.com/Ether_01" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ethersphere" height="28" width="36" />
   </a>
 </div>
