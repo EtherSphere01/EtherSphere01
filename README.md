@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Naimur Rahman</h1>
-<h3 align="center">Ex - Frontend Developer @ Deepchain Labs</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ethersphere01" alt="profile views"/>
