@@ -19,7 +19,7 @@
 
 -   💬 Ask me about **C, C++, C#, Java, Python, PHP, HTML, CSS, JS, React, Nest Js, Next Js, Express Js, MongoDB, PostgreSQL, Node Js, Tailwind CSS**
 
--   📫 How to reach me **naimurrahman471@gmail.com**
+-   📫 How to reach me **naimurrahman.cs18@gmail.com**
 
 -   📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/naimurrahman23/)
 
