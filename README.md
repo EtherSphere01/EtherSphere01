@@ -11,7 +11,7 @@
 
   <!-- Navigation / Social Links -->
   <p>
-    <a href="https://naimur-rahman01.vercel.app/" target="_blank">
+    <a href="https://naimur-rahman26.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
     &nbsp;
@@ -70,27 +70,27 @@
 
 <div align="center">
 
-  <a href="https://naimur-rahman01.vercel.app/" target="_blank">
+  <a href="https://naimur-rahman26.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Deep_Learning-2D3748?style=flat-square&logo=pytorch&logoColor=white" alt="Deep Learning" />
   </a>
   &nbsp;
-  <a href="https://naimur-rahman01.vercel.app/" target="_blank">
+  <a href="https://naimur-rahman26.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Model_Efficiency-2D3748?style=flat-square&logo=speedtest&logoColor=white" alt="Model Efficiency" />
   </a>
   &nbsp;
-  <a href="https://naimur-rahman01.vercel.app/" target="_blank">
+  <a href="https://naimur-rahman26.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Representation_Learning-2D3748?style=flat-square&logo=scikitlearn&logoColor=white" alt="Representation Learning" />
   </a>
   &nbsp;
-  <a href="https://naimur-rahman01.vercel.app/" target="_blank">
+  <a href="https://naimur-rahman26.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Trustworthy_AI-2D3748?style=flat-square&logo=shield&logoColor=white" alt="Trustworthy AI" />
   </a>
   &nbsp;
-  <a href="https://naimur-rahman01.vercel.app/" target="_blank">
+  <a href="https://naimur-rahman26.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Medical_AI-2D3748?style=flat-square&logo=aerlingus&logoColor=white" alt="Medical AI" />
   </a>
   &nbsp;
-  <a href="https://naimur-rahman01.vercel.app/" target="_blank">
+  <a href="https://naimur-rahman26.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Research_Engineering-2D3748?style=flat-square&logo=codewars&logoColor=white" alt="Research Engineering" />
   </a>
 
@@ -192,7 +192,7 @@
 > Preprints, research notes, and academic manuscripts are documented and maintained via my web portfolio.
 
 <p align="center">
-  <a href="https://naimur-rahman01.vercel.app/" target="_blank">
+  <a href="https://naimur-rahman26.vercel.app/" target="_blank">
     <strong>&rarr; Explore Research & Academic Notes on Portfolio</strong>
   </a>
 </p>
@@ -232,7 +232,7 @@
       <br />
       <h3>Looking for comprehensive systems, research write-ups, and live applications?</h3>
       <p>Dive into detailed project architectures, demos, and my full academic trajectory on my portfolio.</p>
-      <a href="https://naimur-rahman01.vercel.app/" target="_blank">
+      <a href="https://naimur-rahman26.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/Visit_Portfolio_Website_%E2%86%92-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Portfolio Website" />
       </a>
       <br /><br />
