@@ -15,7 +15,7 @@
       <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
     &nbsp;
-    <a href="https://drive.google.com/file/d/1OeYjZ4t_Tk7Y75Qt1m5as0sS-iiaEdao/view" target="_blank">
+    <a href="https://drive.google.com/file/d/1l7VRAjoq-OwxxkiWMarKwdk4IZs5tk8M/view?usp=drive_link" target="_blank">
       <img src="https://img.shields.io/badge/Curriculum_Vitae-1F2937?style=for-the-badge&logo=googledrive&logoColor=white" alt="Curriculum Vitae" />
     </a>
     &nbsp;
